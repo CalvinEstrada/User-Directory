@@ -1,6 +1,6 @@
 {
   "name": "user-directory",
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://github.com/CalvinEstrada/user-directory/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@testing-library/jest-dom": "^4.2.4",
