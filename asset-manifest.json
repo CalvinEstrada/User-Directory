@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CalvinEstrada/user-directory/static/css/main.8cb93cb4.chunk.css",
+    "main.js": "/CalvinEstrada/user-directory/static/js/main.2753c42e.chunk.js",
+    "main.js.map": "/CalvinEstrada/user-directory/static/js/main.2753c42e.chunk.js.map",
+    "runtime-main.js": "/CalvinEstrada/user-directory/static/js/runtime-main.6f891394.js",
+    "runtime-main.js.map": "/CalvinEstrada/user-directory/static/js/runtime-main.6f891394.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/CalvinEstrada/user-directory/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.81401fb7.chunk.js": "/CalvinEstrada/user-directory/static/js/2.81401fb7.chunk.js",
+    "static/js/2.81401fb7.chunk.js.map": "/CalvinEstrada/user-directory/static/js/2.81401fb7.chunk.js.map",
+    "index.html": "/CalvinEstrada/user-directory/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/CalvinEstrada/user-directory/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8cb93cb4.chunk.css.map": "/CalvinEstrada/user-directory/static/css/main.8cb93cb4.chunk.css.map",
+    "static/js/2.81401fb7.chunk.js.LICENSE.txt": "/CalvinEstrada/user-directory/static/js/2.81401fb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f891394.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.81401fb7.chunk.js",
+    "static/css/main.8cb93cb4.chunk.css",
+    "static/js/main.2753c42e.chunk.js"
+  ]
+}
